@@ -1,1 +1,1 @@
-# SE QUISER A VERSÂO COMPLETA DO PAINEL BAIXE NUM TERMINAL EM SEU SISTEMA KALI LINUX EM SEU COMPUTADOR
+ Versão completa ficará indisponivel pois há uma chance de outras pessoas verem e não acharem muito legal, agradeço a compreensão
