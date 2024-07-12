@@ -2,7 +2,7 @@ import os
 import requests
 
 # Substitua pelo endereço IP da sua TV Roku
-ROKU_TV_IP = '192.168.15.4'  # Substitua pelo IP da sua TV Roku
+ROKU_TV_IP = '{IP_DA_TV_ROKU}'  # Substitua pelo IP da sua TV Roku
 BASE_URL = f"http://{ROKU_TV_IP}:8060/keypress/"
 
 # Função para enviar comandos para a TV Roku
